@@ -56,10 +56,11 @@ var name = 'Tyler';
 
 
   //Answer Here
-  5 of them
+  6 of them
   false
   0
   undefined
+  null
   ""
   NaN
 
